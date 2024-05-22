@@ -1,0 +1,4 @@
+pymongo
+streamlit==1.34.0
+flask
+scikit-learn
