@@ -8,6 +8,7 @@ Note: Replace the GPT_Key and Mongo_URI in the "config.py" file.
 
 
 docker-compose build
+
 docker-compose up
 
 These commands will result in a streamlit application.
